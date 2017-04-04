@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "624f9973c9b5ef9e0ab935038dda7190"
+build_time: [544556430, 500087000]
+inputs:
+  "/Users/Oat/Documents/oatlab/XCode/My Cal/My Cal/ViewController.swift": [544554695, 0]
+  "/Users/Oat/Documents/oatlab/XCode/My Cal/My Cal/AppDelegate.swift": [544551772, 0]
